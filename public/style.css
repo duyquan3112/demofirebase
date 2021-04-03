@@ -1,0 +1,18 @@
+h1,h2{ color: red; text-decoration-line: underline;}
+
+.canhle {text-align: center;}
+
+.box1 {
+    border: 3px solid navy;
+    width: 200px;
+    height: 200px;
+    background-color: sandybrown;
+    padding: 30px 30px;
+}
+.box2 {
+    border: 2px solid greenyellow;
+    width: 300px;
+    height: 400px;
+    background-color: hotpink;
+    margin: 200px;
+}
